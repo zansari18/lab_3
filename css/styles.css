@@ -36,7 +36,6 @@ label{
 	font-size: 15px;
 	font-weight:bold;
 	font-family:"Oswald";
-	margin-bottom:0.5 rem;
 	
 }
 
@@ -49,7 +48,7 @@ p{
 }
 input[type="submit"] {
 	border:black;
-	padding:none;
+	padding:0px;
 	font-family:"Fredoka";
 }
 input[type="email"]{
