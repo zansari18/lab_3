@@ -2,35 +2,35 @@ body {
     margin: 0;
     padding: 0;
     background-color: black;
-	font-family: "Playfair Display", "Oswald", "Fredoka"; 
 	font-size:16px;
 	color: white;
 	text-align:center;
+	line-height:1.5;
 }
 #content{
 	background-color:white;
 	border:10px 20px;
-	max-width:600px;
+	max-width:550px;
 	margin:auto;
-	line-height:1.5 rem;
+	
 	padding:10px;
 }
 
 h1 {
-    color: black;
+    color: red;
     font-size: 40px;
 	font-weight: bold;
     margin: 0 auto;
     width: 90%; 
-	
+	font-family: "Pacifico";
     padding: 10px;
     text-align: center;
 }
 label{
 	color:black;
 	font-size: 15px;
-	font-family:"Fredoka";
 	font-weight:bold;
+	font-family:"fredoka";
 	
 }
 
@@ -38,7 +38,7 @@ p{
 	color:black;
 	font-weight: bold;
 	font-size:20px;
-	font-family:"Oswald";
+	font-family:"Fredoka";
 }
 input[type="submit"] {
 	border:black;
@@ -58,6 +58,7 @@ input[type="checkbox"]{
 	width:35%;
 	padding:5px;
 	border: none;
+	font-family:"Oswald";
 	
 }
 	
@@ -67,6 +68,7 @@ input[type="checkbox"]{
     color: grey;
     border: none;
     padding:10 px 20 px;
+	
 }
 @media screen and (max-width: 480px) {
   body {
