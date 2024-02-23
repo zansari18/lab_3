@@ -80,7 +80,7 @@ input[type="checkbox"]{
 }
 @media screen and (max-width: 480px) {
   body {
-    font-size: 14px;
+    font-size: 20px;
   }
 
   #content {
