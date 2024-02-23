@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+	font-family: "Playfair Display", "Oswald", "Fredoka"; 
+	font-size:16px;
+	color: white;
+	text-align:center;
+}
+#content{
+	background-color:white;
+	border:10px 20px;
+	max-width:600px;
+	margin:auto;
+	line-height:1.5 rem;
+	padding:10px;
+}
+
+h1 {
+    color: black;
+    font-size: 40px;
+	font-weight: bold;
+    margin: 0 auto;
+    width: 90%; 
+	
+    padding: 10px;
+    text-align: center;
+}
+label{
+	color:black;
+	font-size: 15px;
+	font-family:"Fredoka";
+	font-weight:bold;
+	
+}
+
+p{
+	color:black;
+	font-weight: bold;
+	font-size:20px;
+	font-family:"Oswald";
+}
+input[type="submit"] {
+	border:black;
+	padding:none;
+}
+input[type="email"]{
+	background-color:grey;
+	color: black;
+	width:35%;
+	padding:5px;
+	border: none;
+	
+}
+input[type="checkbox"]{
+	background-color:grey;
+	color: black;
+	width:35%;
+	padding:5px;
+	border: none;
+	
+}
+	
+	
+#input-submit {
+	width:100%;
+    color: grey;
+    border: none;
+    padding:10 px 20 px;
+}
+@media screen and (max-width: 480px) {
+  body {
+    font-size: 14px;
+  }
+
+  #content {
+    padding: 15px;
+  }
+
+  input[type="submit"] {
+    width: 100%;
+  }
+}
