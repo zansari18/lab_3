@@ -12,7 +12,7 @@ body {
 	border:10px 20px;
 	max-width:550px;
 	margin:auto;
-	
+	border-radius: 20%;
 	padding:10px;
 }
 
@@ -21,16 +21,19 @@ h1 {
     font-size: 40px;
 	font-weight: bold;
     margin: 0 auto;
+	margin-bottom: 1rem;
     width: 90%; 
 	font-family: "Pacifico";
     padding: 10px;
     text-align: center;
+	text-decoration:underline;
 }
 label{
 	color:black;
 	font-size: 15px;
 	font-weight:bold;
-	font-family:"fredoka";
+	font-family:"Oswald";
+	margin-bottom:0.5 rem;
 	
 }
 
@@ -38,15 +41,17 @@ p{
 	color:black;
 	font-weight: bold;
 	font-size:20px;
-	font-family:"Fredoka";
+	font-family:"Oswald";
+	margin-bottom:1.5rem;
 }
 input[type="submit"] {
 	border:black;
 	padding:none;
+	font-family:"Fredoka";
 }
 input[type="email"]{
 	background-color:grey;
-	color: black;
+	color: white;
 	width:35%;
 	padding:5px;
 	border: none;
@@ -58,7 +63,7 @@ input[type="checkbox"]{
 	width:35%;
 	padding:5px;
 	border: none;
-	font-family:"Oswald";
+	
 	
 }
 	

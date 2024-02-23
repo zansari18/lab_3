@@ -1,30 +1,23 @@
-Playfair Display Variable Font
-==============================
+Oswald Variable Font
+====================
 
-This download contains Playfair Display as both variable fonts and static fonts.
+This download contains Oswald as both a variable font and static fonts.
 
-Playfair Display is a variable font with this axis:
+Oswald is a variable font with this axis:
   wght
 
-This means all the styles are contained in these files:
-  Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf
-  Playfair_Display/PlayfairDisplay-Italic-VariableFont_wght.ttf
+This means all the styles are contained in a single file:
+  Oswald/Oswald-VariableFont_wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
 that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Playfair Display:
-  Playfair_Display/static/PlayfairDisplay-Regular.ttf
-  Playfair_Display/static/PlayfairDisplay-Medium.ttf
-  Playfair_Display/static/PlayfairDisplay-SemiBold.ttf
-  Playfair_Display/static/PlayfairDisplay-Bold.ttf
-  Playfair_Display/static/PlayfairDisplay-ExtraBold.ttf
-  Playfair_Display/static/PlayfairDisplay-Black.ttf
-  Playfair_Display/static/PlayfairDisplay-Italic.ttf
-  Playfair_Display/static/PlayfairDisplay-MediumItalic.ttf
-  Playfair_Display/static/PlayfairDisplay-SemiBoldItalic.ttf
-  Playfair_Display/static/PlayfairDisplay-BoldItalic.ttf
-  Playfair_Display/static/PlayfairDisplay-ExtraBoldItalic.ttf
-  Playfair_Display/static/PlayfairDisplay-BlackItalic.ttf
+in those cases you can use the static font files for Oswald:
+  Oswald/static/Oswald-ExtraLight.ttf
+  Oswald/static/Oswald-Light.ttf
+  Oswald/static/Oswald-Regular.ttf
+  Oswald/static/Oswald-Medium.ttf
+  Oswald/static/Oswald-SemiBold.ttf
+  Oswald/static/Oswald-Bold.ttf
 
 Get started
 -----------
